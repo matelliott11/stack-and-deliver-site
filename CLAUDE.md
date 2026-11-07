@@ -4,6 +4,8 @@ The privacy policy and support pages for the Stack & Deliver game, on GitHub Pag
 
 ## Status
 
+_At the start of each session, read Matt's notes from Atlas in `~/Developer/Projects/Life/Code notes/stack-and-deliver-site.md` (if it exists). Fold anything under New into this Status section, then move those notes under Picked up in that file, newest first._
+
 _First written 7 November 2026 from the git history. Keep this section up to date: at the end of every session, rewrite Last session, Next steps and Blockers (Atlas, Matt's dashboard, reads them)._
 
 **Last session:** 19 October 2026. Privacy policy and support pages published.
